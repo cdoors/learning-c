@@ -3,7 +3,8 @@
 Check gcc version with gcc --version
 After compiling, you can run with ./main or whatever it is called. This will run in terminal
 
-
+Just so i can remember, forward slash has slope = 1 (or even 2 or 3), while
+backslash is a negative sloping line.
 
 == 2024-08-15
 
