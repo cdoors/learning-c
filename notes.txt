@@ -1,0 +1,26 @@
+== 2024-08-25
+
+Check gcc version with gcc --version
+After compiling, you can run with ./main or whatever it is called. This will run in terminal
+
+
+
+== 2024-08-15
+
+Learned how to use the debugger for the first time.
+
+when using cpp, i need to use g++ to compile. I didn't know that I could use the binary output of my cpp file here and run it via:
+./test
+
+Cool stuff. I want to dive deeper into this and lower level programming.
+
+Back to work tomorrow and probably won't touch this for a little bit, but I'm going to get through OSTEP and learn a lot of C in the process. I'm assuming that C and C++ are going to be similar, as I'm able to compile them both with the same extension/libraries.
+
+C:
+- does not support objects, classes, inheritence
+- known for speed, the "god of programming languages"
+- procedural language
+
+C++:
+- offers more abstraction and functionality that python is known for
+- OOP
